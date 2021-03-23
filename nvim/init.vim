@@ -1,0 +1,1 @@
+/home/ylt/.config/nvim/init.vim
