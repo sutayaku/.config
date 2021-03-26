@@ -1,4 +1,7 @@
-sudo pacman -Sy zsh nvim git lazygit python python2 python-pip python2-pip ruby nodejs npm fzf bat ranger the_silver_searcher go ctag neofetch
+sudo pacman -Sy zsh nvim git lazygit \
+    base-devel
+    python python2 python-pip python2-pip ruby nodejs npm go \
+    fzf bat ranger the_silver_searcher ctag neofetch
 
 # china source
 # nodejs npm
