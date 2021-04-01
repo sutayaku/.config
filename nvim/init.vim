@@ -7,10 +7,12 @@ set cursorline
 set tabstop=4
 set shiftwidth=4
 set autoindent
-set guifont=Ubuntu\ Mono:h12
+"set guifont=Source\ Code\ Pro:h14
 set cursorline
 set showcmd
 set wildmenu
+"color
+set termguicolors
 "光标上下保留5行
 set scrolloff=5
 "禁用vi兼容模式
